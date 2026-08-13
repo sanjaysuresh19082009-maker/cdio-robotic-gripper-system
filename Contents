@@ -1,0 +1,18 @@
+## 🧰 Bill of Materials (BOM)
+
+* **Klaw MK2 Robotic Gripper Kit:** 1
+  * *Purpose:* Grips and releases the cube
+* **Kitronik Linear Actuator Kit:** 1
+  * *Purpose:* Provides left/right travel
+* **BBC micro:bit (+ battery pack):** 1
+  * *Purpose:* Reads button input, controls servos & sound
+* **3D-printed actuator base:** 1
+  * *Purpose:* Anchors the actuator kit
+* **3D-printed gripper adaptor:** 1
+  * *Purpose:* Mounts gripper to the actuator carriage
+* **Push button module:** 1
+  * *Purpose:* Start trigger input
+* **Fasteners (M3 screws / nuts):** As needed
+  * *Purpose:* Secures printed parts and kits
+* **Test cube prop:** 1
+  * *Purpose:* Object to be gripped and moved
